@@ -32,6 +32,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 
   #
   
-  ![Snake animation](https://github.com/andressapassos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/andressapassos/andressapassos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
