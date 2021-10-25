@@ -1,4 +1,4 @@
-# Hi there!! I'm Andressa Passos!! Welcome.
+# Hi there!! I'm Andressa Passos!! Welcome 👋
 
 🎓Pharmacist <p>
 💊Specialist in Pharmaceuticals Assistance <p>
