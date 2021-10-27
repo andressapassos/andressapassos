@@ -6,6 +6,8 @@
 🧬Tech. in Biotechnology <p>
 💻Adventuring in Dev. <p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andressapassos&color=yellow" alt="Profile views" /> </p>
+  
 <div align="center">
   <a href="https://github.com/andressapassos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressapassos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -32,3 +34,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 
  
 </div>
+
+  #
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=andressapassos&color=yellow" alt="Profile views" /> </p>
