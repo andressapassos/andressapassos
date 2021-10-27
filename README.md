@@ -6,7 +6,6 @@
 🧬Tech. in Biotechnology <p>
 💻Adventuring in Dev. <p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andressapassos&color=yellow" alt="Profile views" /> </p>
   
 <div align="center">
   <a href="https://github.com/andressapassos">
