@@ -4,7 +4,7 @@
 💊Specialist in Pharmaceuticals Assistance <p>
 🧪Specialist in Biotechnology <p>
 🧬Tech. in Biotechnology <p>
-💻Adventuring in Dev. <p>
+💻Adventuring in Development. <p>
 
   
 <div align="center">
