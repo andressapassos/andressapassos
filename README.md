@@ -25,7 +25,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/902145965153202219/902146181650604042/gif.gif?width=458&height=458">
  <img align="center" alt="And-Js" height="50" width="250" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
   
-   <img align="center" alt="And-Js" height="50" width="250" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+   <img align="center" alt="And-Js" height="50" width="220" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   
   <img align="center" alt="And-Js" height="50" width="180" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
   <img align="center" alt="And-Js" height="50" width="150" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
