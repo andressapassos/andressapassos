@@ -33,16 +33,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
   #
  
 <div style="display: inline_block"><br>
-  <a href="https://instagram.com/andressa.uxuidesign/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/andressa1passos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andressa-passos1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://bit.ly/3QdR5cq" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
    <a href="https://dribbble.com/andressapassos" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a> 
-   <a href="https://linktr.ee/andressapassos" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
-
-
-</div>
-
-  #
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=andressapassos&color=yellow" alt="Profile views" /> </p>
