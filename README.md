@@ -1,12 +1,11 @@
 # Hi there!! I'm Andressa Passos!! Welcome 👋
 
-👩🏼‍💻 User Interface Designer <p>
 📚 Studying Full Stack and UI/UX Design  <p>
 💻 Adventuring in Development. <p>
-🎓 Pharmacist <p>
-💊 Specialist in Pharmaceuticals Assistance <p>
-🧪 Specialist in Biotechnology <p>
-🧬 Tech. in Biotechnology <p>
+🎓 BSc Pharmacy and Biochemistry <p>
+💊 Master's degree in Pharmaceutical Care <p>
+🧪 Master's degree in Biotechnology <p>
+🧬 Biotechnology Technician <p>
 
   
 <div align="center">
