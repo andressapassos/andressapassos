@@ -1,7 +1,7 @@
 # Hi there!! I'm Andressa Passos!! Welcome 👋
 
 👩🏼‍💻 User Interface Designer <p>
-📚 Studying UX Design  <p>
+📚 Studying Full Stack and UI/UX Design  <p>
 💻 Adventuring in Development. <p>
 🎓 Pharmacist <p>
 💊 Specialist in Pharmaceuticals Assistance <p>
